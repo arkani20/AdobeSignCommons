@@ -19,9 +19,9 @@ For preparation instructions visit the [Github repository of the Adobe Sign Conn
 ## Installation
 
 1. Install the Dependencies from the Mendix Marketplace:
-   - Adobe Sign Connector
+   - [Adobe Sign Connector](https://marketplace.mendix.com/link/component/215590)
 2. Follow the [installation instructions of the Adobe Sign Connector module](https://github.com/arkani20/AdobeSignConnector#installation)
-3. Install the Adobe Sign Commons from the Mendix Marketplace
+3. Install the [Adobe Sign Commons](https://marketplace.mendix.com/link/component/215664) from the Mendix Marketplace
 4. Assign the module roles to your projects user roles. Users can use the microflows provided in the USE_ME folder.
 
 ## Configuration
